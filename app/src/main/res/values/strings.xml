@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MedihubDoc</string>
+    <string name="dialog_message">Medihub</string>
+
+    <string name="dialog_title">Medihub</string>
+
+    <string-array name="blood_group">
+
+        <item>Emergency Doctor</item>
+        <item>Cardiologist</item>
+        <item>Dentist</item>
+        <item>ENT Specialist</item>
+        <item>Psychatist</item>
+        <item>Orthologist</item>
+        <item>Dermatologist</item>
+
+    </string-array>
+
+</resources>

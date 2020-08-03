@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "736472419050",
+    "firebase_url": "https://medihubv2-0-bftlyk.firebaseio.com",
+    "project_id": "medihubv2-0-bftlyk",
+    "storage_bucket": "medihubv2-0-bftlyk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736472419050:android:ef90ab84b4936f3360e593",
+        "android_client_info": {
+          "package_name": "com.example.medihubdoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736472419050-iqtjktrat378lu5t044atuvlfojr7hno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBiA8V-GrNWxwUaxvKZXnWv06gIL1qE6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736472419050-iqtjktrat378lu5t044atuvlfojr7hno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736472419050:android:1e31d91f3c8edb9060e593",
+        "android_client_info": {
+          "package_name": "com.example.medihubfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736472419050-t681062itggsus3lusrc8tasehm70dvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medihubfinal",
+            "certificate_hash": "040abe4e5b7e0eae2eaa9465011722d2f5090348"
+          }
+        },
+        {
+          "client_id": "736472419050-bskb7n496ku0hsengqd61at0cdgpksoj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medihubfinal",
+            "certificate_hash": "5fedc96469531a23c75c667a008c42952219d5ef"
+          }
+        },
+        {
+          "client_id": "736472419050-iqtjktrat378lu5t044atuvlfojr7hno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBiA8V-GrNWxwUaxvKZXnWv06gIL1qE6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736472419050-iqtjktrat378lu5t044atuvlfojr7hno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736472419050:android:139ac5323d72aa4b60e593",
+        "android_client_info": {
+          "package_name": "com.example.medihubpvt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736472419050-213g9nsseoof9epge1vi7dkqmdar4i8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medihubpvt",
+            "certificate_hash": "5fedc96469531a23c75c667a008c42952219d5ef"
+          }
+        },
+        {
+          "client_id": "736472419050-iqtjktrat378lu5t044atuvlfojr7hno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBiA8V-GrNWxwUaxvKZXnWv06gIL1qE6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736472419050-iqtjktrat378lu5t044atuvlfojr7hno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
